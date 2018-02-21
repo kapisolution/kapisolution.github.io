@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Herramienta de autodefensa digital para perfiles profesionales
+Esta es una guía sobre el proyecto kapisolution
 
-You can use the [editor on GitHub](https://github.com/kapisolution/kapisolution.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Objetivo
+El objetivo de nuestra herramienta es dotar a los usuarios de conocimiento suficiente para protegerse en la utilización de cualquier recurso tecnológico en el desarrollo de su actividad profesional.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El proyecto surge debido a la necesidad de concentrar en una misma herramienta una serie de conocimientos de autodefensa digital. En la web, hay gran cantidad de documentación y artículos relacionados con este ámbito, por tanto, nuestra misión es dotar a la comunidad de un sitio web dónde poder encontrar la información que necesita. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Herramienta
+El usuario podrá navegar a través de la herramienta y consultar los distintos artículos disponibles. 
+De momento, y debido a que la implementación de la herramienta se encuentra en su fase inicial, el usuario podrá consultar los artículos en base a los siguientes roles existentes en la aplicación:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. INFORMÁTICOS
+2. PERIODISTAS
+3. ABOGADOS
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Comunidad
+El objetivo de la aplicación es la comunidad. El codigo del proyecto se puede consultar, está presente en el siguiente repositorio de [GitHub] (https://github.com/kapisolution/kapisolution). 
+Si el quieres contribuir en el proyecto, no tienes mas que clonar el repositorio en tu local y proponer cualquier modificación que creas conveniente.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kapisolution/kapisolution.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Como hemos dicho, el objetivo es la comunidad, por ello, si un usuario está logeado en la aplicación, puede añadir contenido o modificar el contenido existente referente a:
+```markdown
+1. Artículos
+2. Preguntas
+3. Contenido de la aplicación
+```
+### Exámenes
+La aplicación otorga al usuario la posibilidad de realizar una serie de exámenes, otorgándole en caso de éxito, la correspondiente insignia y la posibilidad de mejorar su nivel. El nivel del usuario es determinante, ya que, en base a su nivel, podrá crear o modificar el contenido de la aplicación. Sólo aquellos usuarios que tengan un nivel suficiente tendrán una serie de privilegios.
