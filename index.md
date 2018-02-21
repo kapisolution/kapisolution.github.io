@@ -16,7 +16,7 @@ De momento, y debido a que la implementación de la herramienta se encuentra en 
 ```
 
 ### Comunidad
-El objetivo de la aplicación es la comunidad. El codigo del proyecto se puede consultar, está presente en el siguiente repositorio de [GitHub] (https://github.com/kapisolution/kapisolution). 
+El objetivo de la aplicación es la comunidad. El codigo del proyecto se puede consultar, está presente en el siguiente repositorio de [GitHub](https://github.com/kapisolution/kapisolution). 
 Si el quieres contribuir en el proyecto, no tienes mas que clonar el repositorio en tu local y proponer cualquier modificación que creas conveniente.
 
 Como hemos dicho, el objetivo es la comunidad, por ello, si un usuario está logeado en la aplicación, puede añadir contenido o modificar el contenido existente referente a:
