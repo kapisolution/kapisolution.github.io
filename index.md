@@ -16,8 +16,10 @@ De momento, y debido a que la implementación de la herramienta se encuentra en 
 ```
 
 ### Comunidad
-El objetivo de la aplicación es la comunidad. El codigo del proyecto se puede consultar, está presente en el siguiente repositorio de [GitHub](https://github.com/kapisolution/kapi_solution). 
-Si el quieres contribuir en el proyecto, no tienes mas que clonar el repositorio en tu local y proponer cualquier modificación que creas conveniente.
+La aplicación está pensada en la comunidad. El codigo de la herramienta se puede consultar, está presente en el siguiente repositorio de [GitHub](https://github.com/kapisolution/kapi_solution). 
+Si algún usuario desea contribuir en el proyecto, no tiene mas que clonar el repositorio en su local y proponer cualquier modificación que crea conveniente realizando un pull request de su modificación.
+
+Si quieres saber como colaborar en un proyecto de GitHub consulta [la siguiente guía](https://gist.github.com/BCasal/026e4c7f5c71418485c1).
 
 Como hemos dicho, el objetivo es la comunidad, por ello, si un usuario está logeado en la aplicación, puede añadir contenido o modificar el contenido existente referente a:
 ```markdown
@@ -26,4 +28,4 @@ Como hemos dicho, el objetivo es la comunidad, por ello, si un usuario está log
 3. Contenido de la aplicación
 ```
 ### Exámenes
-La aplicación otorga al usuario la posibilidad de realizar una serie de exámenes, otorgándole en caso de éxito, la correspondiente insignia y la posibilidad de mejorar su nivel. El nivel del usuario es determinante, ya que, en base a su nivel, podrá crear o modificar el contenido de la aplicación. Sólo aquellos usuarios que tengan un nivel suficiente tendrán una serie de privilegios.
+La aplicación otorga al usuario la posibilidad de realizar una serie de exámenes, otorgándole en caso de éxito, la correspondiente insignia y la posibilidad de mejorar su nivel. El nivel del usuario es determinante, ya que, en base a su nivel, podrá crear o modificar el contenido de la aplicación. Sólo aquellos usuarios que tengan un nivel suficiente tendrán estos privilegios.
